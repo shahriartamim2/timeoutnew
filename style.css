@@ -1,0 +1,17 @@
+.box{
+    height: 700px;
+    width: 300px;
+    border: 4px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: rgb(118, 40, 191);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+
+}
