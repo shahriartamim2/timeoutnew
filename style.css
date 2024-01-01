@@ -1,5 +1,5 @@
 .box{
-    height: 700px;
+    height: 100vh;
     width: 300px;
     border: 4px solid blue;
     display: flex;
@@ -12,6 +12,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap:30px;
+    gap:10px;
 
 }
